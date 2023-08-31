@@ -1,0 +1,30 @@
+<cars>
+    <car>
+        <make>Toyota</make>
+        <model>Corolla</model>
+        <year>2023</year>
+        <color>Silver</color>
+        <price>$25,000</price>
+    </car>
+    <car>
+        <make>Ford</make>
+        <model>Mustang</model>
+        <year>2022</year>
+        <color>Red</color>
+        <price>$40,000</price>
+    </car>
+    <car>
+        <make>Chevrolet</make>
+        <model>Equinox</model>
+        <year>2023</year>
+        <color>Blue</color>
+        <price>$30,500</price>
+    </car>
+    <car>
+        <make>Honda</make>
+        <model>Civic</model>
+        <year>2022</year>
+        <color>White</color>
+        <price>$22,800</price>
+    </car>
+</cars>
